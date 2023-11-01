@@ -3,12 +3,12 @@
 Voiced sounds are produced with the vibration of the vocal cords, while unvoiced sounds are produced without the vibration of the vocal cords.
 VUD is important for speech perception and production. It helps us to distinguish between different words and phrases, and to produce speech that is clear and understandable.
 ## Implementation steps
-Step 1: Read input data
-Step 2: Data processing: dividing frames, calculating ste, zcr
-Step 3: Find the threshold T_ste and T_zcr
-Step 4: Standardize the ste and zcr functions
-Step 5: Make a decision
-Step 6: Draw a graph
+- Step 1: Read input data
+- Step 2: Data processing: dividing frames, calculating ste, zcr
+- Step 3: Find the threshold T_ste and T_zcr
+- Step 4: Standardize the ste and zcr functions
+- Step 5: Make a decision
+- Step 6: Draw a graph
 ## Results of running the program
 File studio_F1
 ![image](https://github.com/duyhau0802/voiced_unvoiced_discrimination/assets/114060333/9654e590-8780-4cc2-a048-1954fa780b6b)
